@@ -1,15 +1,14 @@
 /*
-Covid 19 Data Exploration 
+Covid 19 Data Exploration
+In this project, I employed SQL queries to analyze Covid-19 data from various angles. I started by retrieving data on cases, deaths, and populations, 
+focusing on countries and continents. Then, I conducted analyses to calculate death percentages, infection rates relative to populations, and identified 
+countries with high death counts per population. I also examined global statistics and vaccination rates. Utilizing techniques like CTEs and temporary tables, 
+I performed calculations on partitioned data. Lastly, I created a view to store the analyzed data for future use. Overall, the project provided insights into 
+the pandemic's impact on different regions and populations, aiding decision-making and public health strategies.
+/*
 
--- In this project, I employed SQL queries to analyze Covid-19 data from various angles. I started by retrieving data on cases, deaths, and populations, 
--- focusing on countries and continents. Then, I conducted analyses to calculate death percentages, infection rates relative to populations, and identified 
--- countries with high death counts per population. I also examined global statistics and vaccination rates. Utilizing techniques like CTEs and temporary tables, 
--- I performed calculations on partitioned data. Lastly, I created a view to store the analyzed data for future use. Overall, the project provided insights into 
--- the pandemic's impact on different regions and populations, aiding decision-making and public health strategies.
+-- Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
-Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-*/
 
 Select *
 From PortfolioProject..CovidDeaths
