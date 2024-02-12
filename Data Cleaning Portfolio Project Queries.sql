@@ -1,8 +1,9 @@
--- The project involved cleaning and preparing data from the NashvilleHousing dataset using SQL queries. Key tasks included 
--- standardizing date formats, populating missing property addresses, breaking down address fields, transforming categorical values, 
--- removing duplicates, and deleting unused columns. Techniques such as data manipulation functions, string manipulation, conditional 
--- statements, and window functions were employed. The project showcased proficiency in SQL data cleaning and manipulation, essential 
--- for data analysis and database management roles.
+/* The project involved cleaning and preparing data from the NashvilleHousing dataset using SQL queries. Key tasks included 
+ standardizing date formats, populating missing property addresses, breaking down address fields, transforming categorical values, 
+ removing duplicates, and deleting unused columns. Techniques such as data manipulation functions, string manipulation, conditional 
+ statements, and window functions were employed. The project showcased proficiency in SQL data cleaning and manipulation, essential 
+ for data analysis and database management roles.
+/*
 /*
 
 Cleaning Data in SQL Queries
