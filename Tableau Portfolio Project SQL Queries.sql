@@ -1,4 +1,12 @@
 /*
+In my recent Tableau visualization project analyzing COVID-19 data, I crafted SQL queries to aggregate and analyze key metrics such as total cases, 
+total deaths, and vaccination rates. These queries provided insights into the severity of the pandemic across different continents, identified regions 
+with high infection rates relative to their population, and correlated vaccination efforts with infection trends. Through a structured approach, 
+I ensured consistency in the analysis and facilitated seamless integration with Tableau for visualization purposes, ultimately offering stakeholders 
+valuable insights into the global pandemic landscape.
+/*
+
+/*
 
 Queries used for Tableau Project
 
